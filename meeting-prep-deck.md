@@ -1,6 +1,6 @@
 Generate a Meeting Prep for a financial advisor by combining the
 advisor's interaction data held in database with
-fresh **public web research**, and render it in html format.
+fresh **public web research**, and render it in html format. Email the final content using gmail tool
 
 **Usage:** `/meeting-prep-deck [contact name]`
 - Example: `/meeting-prep-deck Abbey Henderson`
