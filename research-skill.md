@@ -3,6 +3,6 @@ include the following when researching the company
 - company competitors
 - should i invest in this stock?
 
-limit the output to less than 1000 words.
-
-email the content in html format
+## rules
+- limit the output to less than 1000 words.
+- email the content in html format using gmail tool
