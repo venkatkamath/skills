@@ -1,6 +1,6 @@
 Generate a Meeting Prep for a financial advisor by combining the
 advisor's interaction data held in database with
-fresh **public web research**, and render it in md format.
+fresh **public web research**, and render it in html format.
 
 **Usage:** `/meeting-prep-deck [contact name]`
 - Example: `/meeting-prep-deck Abbey Henderson`
@@ -113,4 +113,4 @@ Phase 2; synthesized blocks are your analysis of the combined data.
 - **Nulls are expected** in the interaction data — a missing amount, owner, or identifier is normal;
   don't invent a value to fill it.
 - If the advisor has a recent public quote, use their **exact words** in the Recommended Approach / Call Opener.
-- Do not add any preamble. Build the content in MD format then stop.
+- Do not add any preamble. Build the content in html format and email using gmail tool, then stop.
